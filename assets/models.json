@@ -3,7 +3,8 @@
         "id": 1,
         "name": "name",
         "img": "/assets/images/path",
+        "model": "assets/models/path",
         "description": "description",
-        "model": "assets/models/path"
+        "cost": 0
     }
 ]

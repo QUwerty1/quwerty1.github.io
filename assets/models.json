@@ -1,10 +1,114 @@
 [
     {
         "id": 1,
-        "name": "name",
+        "name": "Лина-Н Клипан",
         "img": "/assets/images/path",
-        "model": "assets/models/path",
-        "description": "description",
-        "cost": 0
-    }
+        "model": "Sofa.glb",
+        "description": "Кожанный 3 местный диван",
+        "cost": 16714
+    },
+    {
+        "id": 2,
+        "name": "Стефан",
+        "img": "/assets/images/path",
+        "model": "Chare1.glb",
+        "description": "Стул из чёрного дуба лакированный",
+        "cost": 3029
+    },
+    {
+        "id": 3,
+        "name": "Ниссе",
+        "img": "/assets/images/path",
+        "model": "Chare2.glb",
+        "description": "Стул складной,глянцевый белый, храмированный",
+        "cost": 2499
+    },
+    {
+        "id": 4,
+        "name": "Каустби",
+        "img": "/assets/images/path",
+        "model": "Chare3.glb",
+        "description": "Стул, белая морилка",
+        "cost": 3499
+    },
+    {
+        "id": 5,
+        "name": "Мальм",
+        "img": "/assets/images/path",
+        "model": "Komod1.glb",
+        "description": "Комод с 2 ящиками, дубовый шпон, беленький",
+        "cost": 2999
+    },
+    {
+        "id": 6,
+        "name": "Хемне",
+        "img": "/assets/images/path",
+        "model": "Komod2.glb",
+        "description": "Комод с 8 ящиками, черно-коричневый",
+        "cost": 19999
+    },
+    {
+        "id": 7,
+        "name": "Галант",
+        "img": "/assets/images/path",
+        "model": "Komod3.glb",
+        "description": "Комод с 4 ящиками, беленький",
+        "cost": 2999
+    },
+    {
+        "id": 8,
+        "name": "Алекс",
+        "img": "/assets/images/path",
+        "model": "Komod4.glb",
+        "description": "Тумба с 5 ящиками, Серенький",
+        "cost": 8850
+    },
+    {
+        "id": 9,
+        "name": "Каллакс",
+        "img": "/assets/images/path",
+        "model": "Stelage1.glb",
+        "description": "Стелаж, белый",
+        "cost": 8999
+    },
+    {
+        "id": 10,
+        "name": "Билли",
+        "img": "/assets/images/path",
+        "model": "Stelage2.glb",
+        "description": "Полка навесная, белый",
+        "cost": 2490
+    },
+    {
+        "id": 11,
+        "name": "Лакк",
+        "img": "/assets/images/path",
+        "model": "Table1.glb",
+        "description": "Стол черно-коричневый, 55x55",
+        "cost": 1199
+    },
+    {
+        "id": 12,
+        "name": "Бьюрста",
+        "img": "/assets/images/path",
+        "model": "Table2.glb",
+        "description": "Стол круглый черно-коричневый",
+        "cost": 3999
+    },
+    {
+        "id": 13,
+        "name": "Стурнэс",
+        "img": "/assets/images/path",
+        "model": "Table3.glb",
+        "description": "Стол коричнего-чёрный",
+        "cost": 23999
+    },
+    {
+        "id": 14,
+        "name": "Одвар",
+        "img": "/assets/images/path",
+        "model": "Taburetka1.glb",
+        "description": "Комод с 2 ящиками, дубовый шпон, беленький",
+        "cost": 999
+    }    
 ]

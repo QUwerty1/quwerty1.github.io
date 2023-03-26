@@ -20,6 +20,7 @@
     let getModel = window.location.search.replace('?model=', '')
     let entity = document.createElement('a-entity')
     entity.setAttribute('position', '0 0 0')
+    entity.setAttribute('rotation', '0 0 90')
     entity.setAttribute('scale', '5, 5, 5')
     entity.setAttribute('gltf-model', '/assets/models/' + getModel + '.glb')
     document.getElementById('marker').append(entity)
